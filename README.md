@@ -1,6 +1,6 @@
 # Portfolio and Blog Website - Server Side
 ## 🌍 Live Link  
-🔗 [Website](https://portfolio-blog-server.vercel.app/api) 
+🔗 [Website](https://portfolio-servers.vercel.app) 
 
 ## Description
 
